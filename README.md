@@ -8,10 +8,10 @@ Ark Industries will be a reference for automation in the history of technology.
 
 This page is an example of how to make a Shopping Cart with some basic funcionalities:  
 <ul>
-  <li>Stock control: When a item is added to Cart, stock of that item decreases and viceversa. If stock for a item reaches 0 then it no longer adds items of that type to the cart</li>
-  <li>CheckOut: When a item is added or removed from Cart, checkout amount is updated.</li>
-  <li>Restock: Through a button, you can restock items from a local server set up using Strapi</li>
-  <li>Images: Every item has a random image that changes when the page is rendered</li>
+  <li># Stock control: When a item is added to Cart, stock of that item decreases and viceversa. If stock for a item reaches 0 then it no longer adds items of that type to the cart</li>
+  <li># CheckOut: When a item is added or removed from Cart, checkout amount is updated.</li>
+  <li># Restock: Through a button, you can restock items from a local server set up using Strapi</li>
+  <li># Images: Every item has a random image that changes when the page is rendered</li>
 </ul>
 React hooks like useState, useEffect, useReducer are used to control de variables.  
 React-bootstrap is used to used to style the components.
