@@ -1,8 +1,37 @@
-# React + Vite
+<h1><img src="./public/favicon2.ico" alt="personal logo" width=25> Ark Industries</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Version 1
 
-Currently, two official plugins are available:
+Ark Industries will be a reference for automation in the history of technology.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Shopping Cart basic example
+
+This page is an example of how to make a Shopping Cart with some basic funcionalities:  
+<ul>
+  <li>Stock control: When a item is added to Cart, stock of that item decreases and viceversa. If stock for a item reaches 0 then it no longer adds items of that type to the cart</li>
+  <li>CheckOut: When a item is added or removed from Cart, checkout amount is updated.</li>
+  <li>Restock: Through a button, you can restock items from a local server set up using Strapi</li>
+  <li>Images: Every item has a random image that changes when the page is rendered</li>
+</ul>
+React hooks like useState, useEffect, useReducer are used to control de variables.  
+React-bootstrap is used to used to style the components.
+
+## How to run
+
+This file can be used for beginners in the web development World to create their first web page in GitHub.  
+To use it locally, fork it to your repository and then download it to your computer. Use command npm install to download all the modules requiered by the app and command npm run dev to start a local server (http://localhost:5173/) to display the page.  
+For more information on how to deploy a Vite React project like this visit <a href="https://vitejs.dev/guide/#scaffolding-your-first-vite-project" target="_blank">vitejs.dev</a>
+
+## Support
+
+You can mail me any question to yupari87157@gmail.com  
+You can add me on LinkedIn for some explanation about the use of this code.  
+<p>Add me: <a href="https://www.linkedin.com/in/markyupariruiz/" target="_blank">Mark Yupari LinkedIn profile</a></p>
+
+## Roadmap
+
+In next version more news about the game will be added.
+
+## License
+
+This file is free and open source. You can use it for commercial projects, open source projects, or really almost whatever you want.
