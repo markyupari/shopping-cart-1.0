@@ -1,4 +1,4 @@
-<h1><img src="./public/favicon2.ico" alt="personal logo" width=25> Ark Industries</h1>
+<h1><img src="./favicon2.ico" alt="personal logo" width=25> Ark Industries</h1>
 
 > Version 1
 
@@ -6,7 +6,8 @@ Ark Industries will be a reference for automation in the history of technology.
 
 ## Shopping Cart basic example
 
-This page is an example of how to make a Shopping Cart with some basic funcionalities:  
+This page is an example of how to make a Shopping Cart with some basic funcionalities:
+
 <ul>
   <li><strong>Stock control:</strong> When a item is added to Cart, stock of that item decreases and viceversa. If stock for a item reaches 0 then it no longer adds items of that type to the cart</li>
   <li><strong>CheckOut:</strong> When a item is added or removed from Cart, checkout amount is updated.</li>
@@ -25,7 +26,8 @@ For more information on how to deploy a Vite React project like this visit <a hr
 ## Support
 
 You can mail me any question to yupari87157@gmail.com  
-You can add me on LinkedIn for some explanation about the use of this code.  
+You can add me on LinkedIn for some explanation about the use of this code.
+
 <p>Add me: <a href="https://www.linkedin.com/in/markyupariruiz/" target="_blank">Mark Yupari LinkedIn profile</a></p>
 
 ## Roadmap
