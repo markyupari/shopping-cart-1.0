@@ -16,6 +16,7 @@ This page is an example of how to make a Shopping Cart with some basic funcional
 </ul>
 React hooks like useState, useEffect, useReducer are used to control de variables.  
 React-bootstrap is used to used to style the components.
+Added testing using Vitest.
 
 ## How to run
 
